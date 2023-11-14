@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DavisWere
-- 👀 I’m interested in  software development
+- 👋 Hi, I’m @DavisWere a software engineer
+- 👀 I’m interested in  software development and specializing in backend development
 - 🌱 I’m currently learning   software development
 - 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me devisodhis10@gmail.com
